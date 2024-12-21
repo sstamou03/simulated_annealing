@@ -24,5 +24,5 @@ The input is provided via a file (`input.txt`) in the following format:
   ## Acknowledgments
 
 - **Professor M. Lagoudakis** for teaching the course and providing guidance.
-- **AIMA Python Repository** for the foundational Simulated Annealing code.
+- **AIMA Python Repository** for the foundational Simulated Annealing code(search.py & utils.py).
 - **Simon Tatham** for the [Unruly game](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/unruly.h).
